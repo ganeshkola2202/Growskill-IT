@@ -1,2 +1,2 @@
-I am Master		I am Master
-I am Master		I am Payment
+I am master		I am master
+I am master		I am payment
